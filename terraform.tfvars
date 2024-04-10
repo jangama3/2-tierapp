@@ -15,5 +15,5 @@ pri_sub_5a_cidr = "10.0.5.0/24"
 pri_sub_6b_cidr = "10.0.6.0/24"
 db_username= "admin"
 db_password= "jangama-123"
-certificate_domain_name 
-additional_domain_name 
+#certificate_domain_name 
+#additional_domain_name 
